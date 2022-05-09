@@ -16,3 +16,8 @@ For the UI , we'll build an app where the user can see his current speed (this m
 * Breadboard
 * Male-to-female jumper wires
 * HC-SR04+ distance sensor
+
+### Software
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [JetBrain WebStorm](https://www.jetbrains.com/webstorm/)
