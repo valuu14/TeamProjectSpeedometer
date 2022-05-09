@@ -1,4 +1,4 @@
-# TeamProjectSpeedometer
+# Team Project Speedometer
 
 ## Description
 
@@ -23,7 +23,7 @@ For the UI, we'll build an app blanck ionic-angular template where the user can 
 
 ### Software
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)  //change this
 * [JetBrain WebStorm](https://www.jetbrains.com/webstorm/)
 
 ## Setup and Build
