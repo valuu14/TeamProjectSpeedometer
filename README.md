@@ -36,6 +36,7 @@ For the UI, we'll build an app blanck ionic-angular template where the user can 
 
 * In order to run this project you need to clone the repository and then `cd TeamProjectSpeedometer`
 * **For backend** run `pip install bottle` or `sudo apt-get bottle` from a terminal and do the same for `RPi.GPIO` (**note:** the RPi.GPIO library is not supported on Windows so you might want to use a Linux based operating system)
+* To start the server, simply run `python distance.py`
 * **For frontend** run `ionic serve`
 
 ## Demo
