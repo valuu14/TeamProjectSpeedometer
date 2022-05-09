@@ -8,6 +8,10 @@ The sensor will measure the distance from its position to the first object met i
 
 For the UI , we'll build an app where the user can see his current speed (this might not be extremely accurate and mostly depends on the sensor's capacity), the distance travelled, and the average speed.
 
+## Schematics
+
+![image](https://user-images.githubusercontent.com/58001743/167450207-002589b0-830c-44a0-87cb-b0fe4ec164b3.png)
+
 ## Pre-requisites
 
 ### Hardware
