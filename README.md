@@ -25,3 +25,11 @@ For the UI , we'll build an app where the user can see his current speed (this m
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [JetBrain WebStorm](https://www.jetbrains.com/webstorm/)
+
+## Demo
+
+The demo of how the sensor is capturing the data and how the app is running are in the demo folder of this repository
+
+## Running
+
+* 
